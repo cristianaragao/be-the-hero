@@ -1,6 +1,3 @@
-# Be the Hero
-Desktop and Mobile Aplication React
-
 <h1 align="center">
   <img src="/frontend/src/assets/logo.svg" alt="Be the Hero" title="Be the Hero" width="300">
 </h1>
